@@ -1,1 +1,1 @@
-# XHorizon-Hackathon-Website
+# hackathon
